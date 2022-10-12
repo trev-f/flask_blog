@@ -1,2 +1,4 @@
 # external requirements
 flask
+flask-wtf
+email_validator
